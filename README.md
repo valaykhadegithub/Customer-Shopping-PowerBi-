@@ -1,4 +1,4 @@
-Power BI Dashboard for Customer Purchase Analysis
+<b>Power BI Dashboard for Customer Purchase Analysis</b>
 Project Overview
 This project focuses on analyzing customer purchase data to derive actionable insights using Power BI. The dataset includes information about product preferences, seasons, review ratings, payment methods, shipping preferences, and customer loyalty patterns. The dashboard provides a comprehensive visualization of purchasing behaviors and trends, enabling data-driven decision-making.
 
