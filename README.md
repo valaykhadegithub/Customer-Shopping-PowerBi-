@@ -14,7 +14,7 @@ This project focuses on analyzing customer purchase data to derive actionable in
 </li>
 <br>
 <b>DAX Measures</b><br>
-The following DAX measures were created for analysis:
+The following DAX measures were created for analysis: <br>
 <ul>
   <li>Total Purchases: Total number of purchases in the dataset.</li>
 <li>Average Review Rating: Average rating of products by customers.</li>
@@ -27,18 +27,24 @@ The following DAX measures were created for analysis:
 
 
 
+<br>
+<b>Visualizations</b><br>
 
-Visualizations
-The Power BI dashboard includes the following visualizations:
+<b>The Power BI dashboard includes the following visualizations:</b>
 
-Bar Chart: Seasonal distribution of purchases.
-Pie Chart: Most preferred product colors and payment methods.
-Line Chart: Trends in review ratings over seasons.
-Clustered Column Chart: Comparison of discounted vs non-discounted purchases.
-Slicers: Filters for dimensions like Season, Color, and Payment Method.
+<ul>
+  <li>
+    Bar Chart: Seasonal distribution of purchases.</li>
+<li>Pie Chart: Most preferred product colors and payment methods.</li>
+<li>Line Chart: Trends in review ratings over seasons.</li>
+<li>Clustered Column Chart: Comparison of discounted vs non-discounted purchases.</li>
+<li>Slicers: Filters for dimensions like Season, Color, and Payment Method.
+  </li>
+</ul>
+<br>
 
+<b>Key Insights</b><br>
 
-Key Insights
 Seasonal preferences for product colors and purchases.
 Impact of discounts and promo codes on buying behavior.
 High customer loyalty among frequent purchasers.
