@@ -1,14 +1,17 @@
-<b>Power BI Dashboard for Customer Purchase Analysis</b>
-Project Overview
+<b>Power BI Dashboard for Customer Purchase Analysis</b> <br>
+
+<b>Project Overview</b><br>
+
 This project focuses on analyzing customer purchase data to derive actionable insights using Power BI. The dataset includes information about product preferences, seasons, review ratings, payment methods, shipping preferences, and customer loyalty patterns. The dashboard provides a comprehensive visualization of purchasing behaviors and trends, enabling data-driven decision-making.
 
-Objectives: -
-Understand customer behavior and preferences.
-Analyze the impact of discounts and promo codes.
-Identify patterns in seasonal purchases.
-Explore customer loyalty based on previous purchases.
-Determine the most preferred payment methods and shipping types.
-
+<b>Objectives</b><br>
+<ul>
+  <li>Understand customer behavior and preferences.</li>
+ <li>Analyze the impact of discounts and promo codes.</li>
+  <li>Identify patterns in seasonal purchases.</li>
+<li>Explore customer loyalty based on previous purchases.</li> 
+  <li>Determine the most preferred payment methods and shipping types.
+</li>
 
 DAX Measures
 The following DAX measures were created for analysis:
