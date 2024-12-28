@@ -45,7 +45,7 @@ The following DAX measures were created for analysis: <br>
 
 <b>Key Insights</b><br>
 
-Seasonal preferences for product colors and purchases.
-Impact of discounts and promo codes on buying behavior.
-High customer loyalty among frequent purchasers.
-Preferred payment methods and shipping types.
+<h3>Seasonal preferences for product colors and purchases.</h3>
+<h3>Impact of discounts and promo codes on buying behavior.</h3>
+<h3>High customer loyalty among frequent purchasers.</h3>
+<h3>Preferred payment methods and shipping types.</h3>
