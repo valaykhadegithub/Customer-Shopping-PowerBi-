@@ -12,17 +12,18 @@ This project focuses on analyzing customer purchase data to derive actionable in
 <li>Explore customer loyalty based on previous purchases.</li> 
   <li>Determine the most preferred payment methods and shipping types.
 </li>
-
-DAX Measures
+<br>
+<b>DAX Measures</b><br>
 The following DAX measures were created for analysis:
-
-Total Purchases: Total number of purchases in the dataset.
-Average Review Rating: Average rating of products by customers.
-Discounted vs Non-Discounted Purchases: Analysis of purchases with and without discounts.
-Customer Loyalty Categories: Categorization of customers into "Highly Loyal," "Moderately Loyal," and "Low Loyalty."
-Preferred Payment Method: Most frequently used payment method.
-Purchase Frequency Distribution: Analysis of how often customers make purchases.
-Shipping Type Preference: Insights into preferred shipping methods.
+<ul>
+  <li>Total Purchases: Total number of purchases in the dataset.</li>
+<li>Average Review Rating: Average rating of products by customers.</li>
+<li>Discounted vs Non-Discounted Purchases: Analysis of purchases with and without discounts.</li>
+<li>Customer Loyalty Categories: Categorization of customers into "Highly Loyal," "Moderately Loyal," and "Low Loyalty."</li>
+<li>Preferred Payment Method: Most frequently used payment method.</li>
+<li>Purchase Frequency Distribution: Analysis of how often customers make purchases.</li>
+<li>Shipping Type Preference: Insights into preferred shipping methods.</li>
+</ul>
 
 
 
